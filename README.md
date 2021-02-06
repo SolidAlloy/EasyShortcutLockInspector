@@ -1,6 +1,6 @@
 # Easy Shortcut Lock Inspector
 
-[![Asset Store Link](https://img.shields.io/badge/-Asset%20Store-orange)](https://assetstore.unity.com/packages/tools/easyshortcutlockinspector-23579) ![Unity 4.5.4](https://img.shields.io/badge/Unity-4.5.4-green) [![License: Unity EULA](https://img.shields.io/badge/License-Unity%20Per%20Seat-blueviolet)](https://unity3d.com/legal/as_terms)
+[![Asset Store Link](https://img.shields.io/badge/-Asset%20Store-orange)](https://assetstore.unity.com/packages/tools/easyshortcutlockinspector-23579) ![Unity 4.5.4](https://img.shields.io/badge/Unity-4.5.4-green) [![License: Unity EULA](https://img.shields.io/badge/License-Unity%20EULA-blueviolet)](https://unity3d.com/legal/as_terms)
 
 A shortcut key to toggle the lock/unlock Inspector option with Ctrl+L or Command+L.
 
