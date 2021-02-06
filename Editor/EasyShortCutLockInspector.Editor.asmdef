@@ -1,0 +1,16 @@
+{
+    "name": "EasyShortCutLockInspector.Editor",
+    "rootNamespace": "EasyShortCutLockInspector.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "com.frecre.easy-shortcut-lock-inspector",
+  "version": "1.1.0",
+  "displayName": "Easy Shortcut Lock Inspector",
+  "description": "A shortcut key to toggle Inspector option lock/unlock with Ctrl+L.",
+  "keywords": [
+    "inspector",
+    "shortcut",
+    "hotkey",
+    "lock",
+	"key",
+	"button"
+  ],
+  "author": {
+    "name": "FreCre",
+    "url": "https://assetstore.unity.com/publishers/7617"
+  },
+  "type": "tool",
+  "unity": "2017.1"
+}
