@@ -1,6 +1,6 @@
 {
   "name": "com.frecre.easy-shortcut-lock-inspector",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "displayName": "Easy Shortcut Lock Inspector",
   "description": "A shortcut key to toggle Inspector option lock/unlock with Ctrl+L.",
   "keywords": [
